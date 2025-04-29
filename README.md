@@ -1,7 +1,3 @@
-Here is a professional `README.md` in English for your Python project using LangChain, OpenAI, and Chroma:
-
----
-
 # 🧠 PDF QA System with LangChain, OpenAI, and Chroma
 
 This project implements a question-answering (QA) system over PDF documents using the LangChain framework. It uses OpenAI's GPT-3.5 Turbo for reasoning and Chroma as a vector database to retrieve the most relevant document chunks based on user queries.
@@ -68,10 +64,3 @@ export OPENAI_API_KEY="your-api-key"
 - The system currently processes a hardcoded PDF: `DOC-SF238339076816-20230503.pdf`. Update the filename in `loadData()` as needed.
 - Responses are tailored for legal and technical documents and written in Brazilian Portuguese.
 
-## 📥 License
-
-This project is for educational and prototype use only. Commercial use should be validated with OpenAI's and LangChain's respective licenses.
-
----
-
-Would you like a version of this README in Portuguese as well?
